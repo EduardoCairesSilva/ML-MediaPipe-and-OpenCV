@@ -9,6 +9,7 @@ pip install --upgrade pip
 
 Second step:
 pip install opencv-python
+
 pip install pyforest
 
 Last step:
