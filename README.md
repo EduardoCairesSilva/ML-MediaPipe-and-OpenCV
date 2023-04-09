@@ -1,6 +1,6 @@
 # ML - MediaPipe and OpenCV
 
-To use this repository in the best way, you must enter your IDE and follow these steps:
+To use this repository in the best way, you must enter in your IDE terminal and follow these steps:
 
 ///
 
