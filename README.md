@@ -1,6 +1,7 @@
-# ML---MediaPipe-and-OpenCV
+# ML - MediaPipe and OpenCV
 
 To use this repository in the best way, you must enter your IDE and follow these steps:
+
 ///
 
 First step:
