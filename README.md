@@ -5,14 +5,17 @@ To use this repository in the best way, you must enter in your IDE terminal and 
 ///
 
 First step:
+
 pip install --upgrade pip
 
 Second step:
+
 pip install opencv-python
 
 pip install pyforest
 
 Last step:
+
 pip install mediapipe
 
 ///
