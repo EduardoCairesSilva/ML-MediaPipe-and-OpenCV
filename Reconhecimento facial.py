@@ -22,5 +22,3 @@ while True:
         break
 
 webcam.release()
-
-# sdsdadsadadasdasasdasd
